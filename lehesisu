@@ -1,8 +1,30 @@
-  <html>
-  <head>
-  <title> Minu tudengikood </title>
-  </head>
+<!DOCTYPE html>
+	<html>
+  		<head>
+	<title>HTML Table With Borders Tag</title>
+		</head>
 <body>
-  <h1> Kood: 213279 </h1>
-  </body>
+<table border="1">
+ <tr>
+  <th> Exercise </th>
+  <th> My Work </th>
+ </tr>
+ <tr>
+   <td>Table</td>
+   <td>Tehtud Table</td>
+ </tr>
+ <tr>
+   <td>Tudengikood</td>
+   <td>213279</td>
+ </tr>
+ <tr>
+   <td>Pilt, link ja jutt</td>
+   <td>On teisel pool</td>
+ </tr>
+ </table>
+   <a  href='https://taltech.ee/campus.html'>
+  About TalTech Campus  </a>
+
+</body>
 </html>
+ 

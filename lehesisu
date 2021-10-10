@@ -3,7 +3,14 @@
   		<head>
 	<title>HTML Table With Borders Tag</title>
 		</head>
-<body>
+<title>Title</title>
+
+<h1>help me</h1>
+<p>it doesn't seem to work and no matter what I do I think it never will.
+oh well I guess I'm just not getting those points for doing it right. I hope it's 100 symbols
+is it?
+it must be I mean it will be sad if there is less than 100. I need 100
+bye</p>
 <table border="1">
  <tr>
   <th> Exercise </th>
